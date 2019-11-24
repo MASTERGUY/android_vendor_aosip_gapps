@@ -71,8 +71,7 @@ PRODUCT_PACKAGES += \
     PrebuiltGmsCoreQt \
     RecorderPrebuilt \
     SetupWizardPrebuilt \
-    TipsPrebuilt \
-     TurboPrebuilt \
+    TurboPrebuilt \
     Velvet \
     WallpaperPickerGoogleRelease \
     WellbeingPrebuilt
