@@ -1,4 +1,4 @@
-feq ($(TARGET_GAPPS_ARCH),)
+ifeq ($(TARGET_GAPPS_ARCH),)
 $(error "GAPPS: TARGET_GAPPS_ARCH is undefined")
 endif
 
