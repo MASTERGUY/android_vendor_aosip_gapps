@@ -69,7 +69,6 @@ PRODUCT_PACKAGES += \
     Phonesky \
     PixelSetupWizard \
     PrebuiltGmsCoreQt \
-    RecorderPrebuilt \
     SetupWizardPrebuilt \
     TurboPrebuilt \
     Velvet \
