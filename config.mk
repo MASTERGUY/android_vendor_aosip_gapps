@@ -47,7 +47,6 @@ PRODUCT_PACKAGES += \
     CalendarGooglePrebuilt \
     GoogleContacts \
     GoogleContactsSyncAdapter \
-    GoogleTTS \
     LatinIMEGooglePrebuilt \
     LocationHistoryPrebuilt \
     MarkupGoogle \
