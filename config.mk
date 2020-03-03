@@ -53,7 +53,6 @@ PRODUCT_PACKAGES += \
     NgaResources \
     PrebuiltDeskClockGoogle \
     SoundPickerPrebuilt \
-    talkback \
     WebViewGoogle
 
 # Product priv-app
