@@ -15,10 +15,6 @@ PRODUCT_ENFORCE_RRO_EXCLUDED_OVERLAYS += vendor/gapps/overlay
 DEVICE_PACKAGE_OVERLAYS += \
     vendor/gapps/overlay/common/
 
-# framework
-PRODUCT_PACKAGES += \
-    com.google.android.maps
-
 ifeq ($(IS_PHONE),true)
 PRODUCT_PACKAGES += \
     com.google.android.dialer.support
@@ -68,8 +64,6 @@ PRODUCT_PACKAGES += \
     PixelSetupWizard \
     PrebuiltGmsCoreQt \
     SetupWizardPrebuilt \
-    TurboPrebuilt \
-    Velvet \
     WallpaperPickerGoogleRelease \
     WellbeingPrebuilt
 
