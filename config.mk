@@ -65,6 +65,7 @@ PRODUCT_PACKAGES += \
     PrebuiltGmsCoreQt \
     SetupWizardPrebuilt \
     WallpaperPickerGoogleRelease \
+    Velvet \
     WellbeingPrebuilt
 
 ifeq ($(IS_PHONE),true)
