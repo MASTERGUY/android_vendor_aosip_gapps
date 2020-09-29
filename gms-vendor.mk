@@ -106,7 +106,6 @@ PRODUCT_PACKAGES += \
     Messages \
     TrichromeLibrary \
     WebViewGoogle \
-    AndroidAutoStub \
     CarrierServices \
     ConfigUpdater \
     GmsCore \
